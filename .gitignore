@@ -1,4 +1,4 @@
-input/*.csv
-input/*.f
-output/*.csv
-model/.ipynb_checkpoints/
+*.f
+*.csv
+*.pyc
+model/.ipynb_checkpoints
